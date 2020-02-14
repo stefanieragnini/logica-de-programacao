@@ -19,7 +19,7 @@ int main () {
         printf ("PENTAGONO");
     } else if (lados < 3) {
         printf ("NAO E UM POLIGONO");
-    } else if (lados >5) {
+    } else  {
         printf ("POLIGONO NAO IDENTIFICADO");
     }
 
